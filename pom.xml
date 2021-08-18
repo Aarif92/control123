@@ -117,4 +117,10 @@
 
 
 	</build>
+	<distributionManagement>
+		<snapshotRepository>
+			<id>snap1</id>
+			<name>Internal-Release</name>
+			<url>http://3.136.87.191:8081/repository/snap/</url>
+	</distributionManagement>
 </project>
