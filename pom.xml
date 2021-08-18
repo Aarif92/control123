@@ -112,13 +112,7 @@
 			</plugin>
 
 		</plugins>
-		<distributionManagement>
-                    <repository>
-                       <id>mav</id>
-                       <name>Internal-Realese</name>
-                       <url>http://3.136.87.191:8081/repository/mav-realese/</url>
-                    </repository>
-                </distributionManagement> 
+		
 
 
 
