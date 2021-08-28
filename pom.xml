@@ -121,7 +121,7 @@
 		<snapshotRepository>
 			<id>snap1</id>
 			<name>Internal-Release</name>
-			<url>http://3.136.87.191:8081/repository/snap/</url>
+			<url>http://3.14.151.245:8081/repository/Demo-snapshot/</url>
 		</snapshotRepository>	
 	</distributionManagement>
 </project>
