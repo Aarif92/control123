@@ -121,7 +121,7 @@
 		<snapshotRepository>
 			<id>weekend</id>
 			<name>Internal-Rele</name>
-			<url>http://18.222.135.130:8081/repository/snap1/</url>
+			<url>http://3.142.143.197:8081/repository/snap1/</url>
 		</snapshotRepository>	
 	</distributionManagement>
 </project>
