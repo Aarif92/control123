@@ -119,7 +119,7 @@
 	</build>
 	<distributionManagement>
 		<snapshotRepository>
-			<id>snap1</id>
+			<id>weekend</id>
 			<name>Internal-Rele</name>
 			<url>http://18.222.135.130:8081/repository/snap1/</url>
 		</snapshotRepository>	
